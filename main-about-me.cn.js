@@ -1,5 +1,5 @@
 /**
-* im.gaoren.com
+* about-me.cn app
 */
 $(function(){
     function HexToRGB(hex) {
